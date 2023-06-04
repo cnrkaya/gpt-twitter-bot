@@ -7,6 +7,10 @@ The project consists of a Python script that interacts with the OpenAI API to fe
 - Posts tweets automatically to Twitter using the Twitter API.
 - Customizable prompts and configurations to create unique tweets.
 
+## Bot's Twitter Account
+
+Check out the tweets from the bot on Twitter: [@FerideNice](https://twitter.com/FerideNice)
+
 ## Requirements
 * Python 3.7 or higher
 
