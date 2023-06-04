@@ -47,3 +47,6 @@ Run the script:
 ```bash
 python3 philo_bot_tweet.py
 ```
+
+## Additional Resources
+Medium Paper: [ChatGPT API ile Kolayca Twitter Botu Oluşturma](https://medium.com/@cnrkaya/chatgpt-api-ile-kolayca-twitter-botu-olu%C5%9Fturma-85d2b29bb91f)
